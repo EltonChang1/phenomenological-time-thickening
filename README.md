@@ -1,5 +1,6 @@
 # Phenomenological Time-Thickening Test
 
+How do AI feel time? Certainly not continuous but discrete, but how?
 A Husserl-inspired experiment proposal for testing how an AI system’s internal state changes during a period without new external input. The experiment pairs identical one-token probes across real idle intervals and measures the resulting transformer residual-stream activations.
 
 [Read the experiment proposal](PROPOSAL.md)
